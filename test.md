@@ -14,6 +14,8 @@ This is test section 2
 
 Really cool video ![YouTube](https://www.youtube.com/watch?v=se4v1DSvpKg&list=PLAxJ4-o7ZoPePd9h8xT_Kc38UP_9GHdbk&index=5)
 
-### Red Text
+### Task Lists
 
-<div style="color:red;">This text is red.</div>
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3
