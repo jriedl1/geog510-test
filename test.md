@@ -8,7 +8,9 @@ This is test section 2
 
 ### Gif
 
-[adventure_time](https://media1.tenor.com/m/_WqPD4H3lQMAAAAC/deer-fingers-adventure-time.gif)
+![adventure_time](https://media1.tenor.com/m/_WqPD4H3lQMAAAAC/deer-fingers-adventure-time.gif)
+
+![zootopia](https://i.imgur.com/ZBwwcjo.gif)
 
 ### Hyperlink
 
