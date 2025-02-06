@@ -16,5 +16,6 @@ Really cool video ![YouTube](https://www.youtube.com/watch?v=se4v1DSvpKg&list=PL
 
 ### Red Text
 
+```
 <div style="color:red;">This text is red.</div>
-
+```
