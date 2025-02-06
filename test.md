@@ -6,9 +6,9 @@ This is also a test file
 
 This is test section 2
 
-### Bold Text 
+### Gif
 
-**This is bold text**
+![zootopia](https://i.imgur.com/ZBwwcjo.gif)
 
 ### Hyperlink
 
