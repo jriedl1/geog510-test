@@ -2,7 +2,7 @@
 
 This is also a test file
 
-## <div style="color:red;">Additional Section Header</div> 
+## Additional Section Header
 
 This is test section 2
 
@@ -19,7 +19,3 @@ This is test section 2
 - [x] Task 1
 - [ ] Task 2
 - [ ] Task 3
-
-### Red line
-
-<div style="color:red;">This text is red.</div>
