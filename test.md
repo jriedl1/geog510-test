@@ -10,8 +10,6 @@ This is test section 2
 
 ![adventure_time](https://media1.tenor.com/m/_WqPD4H3lQMAAAAC/deer-fingers-adventure-time.gif)
 
-![zootopia](https://i.imgur.com/ZBwwcjo.gif)
-
 ### Hyperlink
 
 [geog-510](https://geog-510.gishub.org)
@@ -21,3 +19,7 @@ This is test section 2
 - [x] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+### Red line
+
+<div style="color:red;">This text is red.</div>
