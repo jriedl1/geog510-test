@@ -8,7 +8,7 @@ This is test section 2
 
 ### Gif
 
-![adventure_time](https://tenor.com/view/deer-fingers-adventure-time-creepy-deer-deer-fingers-gif-18260564935894865155)
+![adventure_time](https://media1.tenor.com/m/_WqPD4H3lQMAAAAC/deer-fingers-adventure-time.gif)
 
 ### Hyperlink
 
