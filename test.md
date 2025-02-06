@@ -2,7 +2,7 @@
 
 This is also a test file
 
-## Additional Section Header
+## <div style="color:red;">Additional Section Header</div> 
 
 This is test section 2
 
