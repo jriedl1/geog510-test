@@ -14,4 +14,4 @@ This is test section 2
 
 [geog-510](https://geog-510.gishub.org)
 
-[![Jupyterlab Introduction](https://i.ytimg.com/vi/lSzF5I6s2y4/hqdefault.jpg)](https://www.youtube.com/watch)
+[![Jupyterlab Introduction](https://i.ytimg.com/vi/lSzF5I6s2y4/hqdefault.jpg)](https://www.youtube.com/watch?v=se4v1DSvpKg&list=PLAxJ4-o7ZoPePd9h8xT_Kc38UP_9GHdbk&index=5)
