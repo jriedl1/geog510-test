@@ -10,8 +10,6 @@ This is test section 2
 
 ![adventure_time](https://media1.tenor.com/m/_WqPD4H3lQMAAAAC/deer-fingers-adventure-time.gif)
 
-[![Jupyterlab](https://i.ytimg.com/an_webp/_KLQKP8_0kw/mqdefault_6s.webp?du=3000&sqp=CKi8lb0G&rs=AOn4CLAZa4lnHBJXh9hxnO4-I4K7saGZBA)](https://www.youtube.com/watch?v=iMeHDSV8TBI)
-
 ### Hyperlinks
 
 [geog-510](https://geog-510.gishub.org)
