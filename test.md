@@ -15,9 +15,3 @@ This is test section 2
 [geog-510](https://geog-510.gishub.org)
 
 [![Jupyterlab Introduction](https://i.ytimg.com/vi/lSzF5I6s2y4/hqdefault.jpg)](https://www.youtube.com/watch)
-
-### Task Lists
-
-- [x] Task 1
-- [ ] Task 2
-- [ ] Task 3
